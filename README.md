@@ -1,2 +1,2 @@
-[![eliaorsini's GitHub stats](https://github-readme-stats.vercel.app/api?username=elia-orsini&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![eliaorsini's GitHub stats](https://github-readme-stats.vercel.app/api?username=elia-orsini&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elia-orsini&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
